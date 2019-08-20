@@ -1,8 +1,8 @@
-package com.jenkov.nioserver.http;
+package com.github.afkbrb.nioserver.http;
 
-import com.jenkov.nioserver.IMessageReader;
-import com.jenkov.nioserver.IMessageReaderFactory;
-import com.jenkov.nioserver.MessageBuffer;
+import com.github.afkbrb.nioserver.IMessageReader;
+import com.github.afkbrb.nioserver.IMessageReaderFactory;
+import com.github.afkbrb.nioserver.MessageBuffer;
 
 /**
  * Created by jjenkov on 18-10-2015.

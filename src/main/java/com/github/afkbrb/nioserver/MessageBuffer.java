@@ -1,4 +1,4 @@
-package com.jenkov.nioserver;
+package com.github.afkbrb.nioserver;
 
 /**
  * A shared buffer which can contain many messages inside. A message gets a section of the buffer to use. If the

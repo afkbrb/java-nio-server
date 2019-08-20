@@ -1,4 +1,4 @@
-package com.jenkov.nioserver;
+package com.github.afkbrb.nioserver;
 
 /**
  * Same as QueueFillCount, except that QueueFlip uses a flip flag to keep track of when the internal writePos has

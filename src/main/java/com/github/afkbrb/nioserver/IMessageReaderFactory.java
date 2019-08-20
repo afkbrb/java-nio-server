@@ -1,4 +1,4 @@
-package com.jenkov.nioserver;
+package com.github.afkbrb.nioserver;
 
 /**
  * Created by jjenkov on 16-10-2015.

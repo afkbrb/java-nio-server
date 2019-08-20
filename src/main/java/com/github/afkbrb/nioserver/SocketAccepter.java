@@ -1,4 +1,4 @@
-package com.jenkov.nioserver;
+package com.github.afkbrb.nioserver;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

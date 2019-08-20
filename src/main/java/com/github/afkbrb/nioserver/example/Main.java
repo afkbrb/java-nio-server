@@ -1,7 +1,7 @@
-package com.jenkov.nioserver.example;
+package com.github.afkbrb.nioserver.example;
 
-import com.jenkov.nioserver.*;
-import com.jenkov.nioserver.http.HttpMessageReaderFactory;
+import com.github.afkbrb.nioserver.*;
+import com.github.afkbrb.nioserver.http.HttpMessageReaderFactory;
 
 import java.io.IOException;
 import java.util.concurrent.ArrayBlockingQueue;

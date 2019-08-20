@@ -1,4 +1,4 @@
-package com.jenkov.nioserver.http;
+package com.github.afkbrb.nioserver.http;
 
 import java.io.UnsupportedEncodingException;
 

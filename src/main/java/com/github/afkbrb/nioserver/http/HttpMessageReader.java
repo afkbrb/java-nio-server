@@ -1,9 +1,9 @@
-package com.jenkov.nioserver.http;
+package com.github.afkbrb.nioserver.http;
 
-import com.jenkov.nioserver.IMessageReader;
-import com.jenkov.nioserver.Message;
-import com.jenkov.nioserver.MessageBuffer;
-import com.jenkov.nioserver.Socket;
+import com.github.afkbrb.nioserver.IMessageReader;
+import com.github.afkbrb.nioserver.Message;
+import com.github.afkbrb.nioserver.MessageBuffer;
+import com.github.afkbrb.nioserver.Socket;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;
